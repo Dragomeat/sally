@@ -1,0 +1,5 @@
+url: go.dragomeat.com
+
+packages:
+  musicd:
+    repo: github.com/Dragomeat/musicd
